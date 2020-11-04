@@ -1,0 +1,3 @@
+export const FETCH_BOARD = 'FETCH_BOARD'
+export const CHANGE_BOARD = 'CHANGE_BOARD'
+export const ADD_LEADERBOARD = 'ADD_LEADERBOARD'
